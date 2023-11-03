@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Climate change delays germination, reduces seed and
+  seedling fitness and exposes recruits to freezing
+  temperatures
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: M. Inam Jameel
+    email: inam@uga.edu
+    affiliation: University of Georgia
+  - given-names: Jill T. Anderson
+    email: jta24@uga.edu
+    affiliation: University of Georgia
+repository-code: >-
+  https://github.com/inam-jameel/Recruitment_under_early_snowmelt
+abstract: >-
+  Scripts and data for the manuscript "Climate change delays
+  germination, reduces seed and seedling fitness and exposes
+  recruits to freezing temperatures"
